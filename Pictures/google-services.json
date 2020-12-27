@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1064700589324",
+    "project_id": "firebase-inkpott"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064700589324:android:71dac143978949aa",
+        "android_client_info": {
+          "package_name": "com.inkpot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064700589324-o1ecgqmrf635ahauss2drqqt039b61cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hPEMXtl9LhtkpKwp3wdQdyM6Gdzdk7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-99033485-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
